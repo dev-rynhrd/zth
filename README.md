@@ -2,9 +2,9 @@
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/construction-analytics/graphs/commit-activity)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/construction-analytics.svg)](https://github.com/yourusername/construction-analytics/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/construction-analytics.svg)](https://github.com/yourusername/construction-analytics/network)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/dev-rynhrd/zth/graphs/commit-activity)
+[![GitHub stars](https://img.shields.io/github/stars/dev-rynhrd/zth.svg)](https://github.com/dev-rynhrd/zth/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/dev-rynhrd/zth.svg)](https://github.com/dev-rynhrd/zth/network)
 
 A comprehensive analytics system for construction project management that provides advanced data analysis, machine learning predictions, and actionable business insights to optimize project performance and reduce overdue tasks.
 
@@ -28,8 +28,8 @@ A comprehensive analytics system for construction project management that provid
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/construction-analytics.git
-cd construction-analytics
+git clone https://github.com/dev-rynhrd/zth.git
+cd zth
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn
@@ -43,8 +43,8 @@ python construction_analytics.py
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/construction-analytics.git
-cd construction-analytics
+git clone https://github.com/dev-rynhrd/zth.git
+cd zth
 ```
 
 ### 2. Create Virtual Environment (Recommended)
@@ -106,8 +106,8 @@ Your CSV file should contain the following columns:
 ### Step 1: Download and Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/construction-analytics.git
-cd construction-analytics
+git clone https://github.com/dev-rynhrd/zth.git
+cd zth
 
 # Install dependencies
 pip install -r requirements.txt
@@ -294,7 +294,7 @@ def _create_custom_features(self):
 ## 📁 Project Structure
 
 ```
-construction-analytics/
+zth/
 │
 ├── construction_analytics.py    # Main analysis script
 ├── requirements.txt            # Python dependencies
@@ -370,7 +370,7 @@ Best Model: Gradient Boosting (AUC: 0.831)
 We welcome contributions! Here's how you can help:
 
 ### 🐛 Bug Reports
-1. Check existing [Issues](https://github.com/yourusername/construction-analytics/issues)
+1. Check existing [Issues](https://github.com/dev-rynhrd/zth/issues)
 2. Create detailed bug report with steps to reproduce
 3. Include sample data (anonymized) if possible
 
@@ -404,7 +404,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **For Technical Issues:**
 1. 📖 Check this README first
-2. 🔍 Search [existing issues](https://github.com/yourusername/construction-analytics/issues)
+2. 🔍 Search [existing issues](https://github.com/dev-rynhrd/zth/issues)
 3. 🆕 Create new issue with:
    - Python version
    - Error messages
@@ -412,7 +412,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
    - Steps to reproduce
 
 **For Questions:**
-- 💬 [GitHub Discussions](https://github.com/yourusername/construction-analytics/discussions)
+- 💬 [GitHub Discussions](https://github.com/dev-rynhrd/zth/discussions)
 - 📧 Email: your.email@example.com
 - 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
@@ -440,7 +440,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📚 Documentation
 
-For detailed documentation and API reference, visit our [Wiki](https://github.com/yourusername/construction-analytics/wiki).
+For detailed documentation and API reference, visit our [Wiki](https://github.com/dev-rynhrd/zth/wiki).
 
 ## 🎯 Roadmap
 
@@ -465,7 +465,7 @@ For detailed documentation and API reference, visit our [Wiki](https://github.co
 - 📊 Comparative analysis between projects
 - 🎯 Predictive resource allocation
 
-**Want to suggest a feature?** [Open an issue](https://github.com/yourusername/construction-analytics/issues/new) with the `enhancement` label!
+**Want to suggest a feature?** [Open an issue](https://github.com/dev-rynhrd/zth/issues/new) with the `enhancement` label!
 
 ---
 
@@ -473,7 +473,7 @@ For detailed documentation and API reference, visit our [Wiki](https://github.co
 
 ### 🏗️ **Made with ❤️ for Construction Project Management Optimization**
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-dev-rynhrd-black?style=for-the-badge&logo=github)](https://github.com/dev-rynhrd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 
